@@ -1,7 +1,7 @@
-Descriçoes do desafio:
+# Descriçoes do desafio:
 
 
-Descrição do Desafio combo_completo :
+## Descrição do Desafio combo completo :
 Implemente um sistema que verifique se um cliente de uma empresa de telecomunicações contratou um combo completo de serviços. Um combo completo inclui os três serviços principais oferecidos pela empresa: telefonia móvel, banda larga e TV por assinatura. O sistema deve ler uma lista de serviços contratados pelo cliente e determinar se todos os serviços necessários estão incluídos. Caso todos os três serviços estejam presentes, o sistema deve retornar "Combo Completo". Se faltar qualquer um dos serviços, o sistema deve retornar "Combo Incompleto".
 
 Entrada
@@ -21,11 +21,7 @@ movel,tv	     |   Combo Incompleto
 banda larga,tv,movel |	Combo Completo
 
 
-
-
-
-
-Descrição DESAFIO SERVIÇO_CONTRATADO: 
+## Descrição DESAFIO SERVIÇO CONTRATADO: 
 Uma concessionária de telecomunicações oferece quatro tipos de serviços: telefonia móvel, telefonia fixa, banda larga e TV por assinatura. Para facilitar o atendimento ao cliente, é necessário implementar um programa que verifique se um cliente específico contratou um determinado serviço. Por exemplo, quando um cliente liga para a central de atendimento e menciona um serviço, o atendente deve ser capaz de rapidamente verificar se esse serviço está contratado pelo cliente.
 
 Entrada
@@ -46,7 +42,7 @@ tv
 Carol,movel,fixa,tv	Sim
 
 
-Descrição Desafio Velocidade Média:
+## Descrição Desafio Velocidade Média:
 Você foi contratado para desenvolver um sistema que calcule a velocidade média de conexão de internet de um cliente durante um período. O sistema deve ler os registros recebidos como entrada, processar os dados e calcular a velocidade média de conexão em megabits por segundo (Mbps) ao longo do turno.
 
 Entrada
@@ -64,9 +60,7 @@ Entrada	Saída
 110,100, 120,110, 115,105   |	110 Mbps
 
 
-
-
-Descrição Desafio Queda de conexao
+## Descrição Desafio Queda de conexao
 Implemente um programa que verifique se houve queda de conexão em um dia. A queda de conexão é definida como qualquer velocidade registrada igual a 0 Mbps. O sistema deve ler os registros de velocidade de conexão, processar os dados e determinar se ocorreu queda de conexão durante o dia.
 
 Entrada
